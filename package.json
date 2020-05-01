@@ -52,7 +52,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/adityasharma11"
+    "url": "git+https://github.com/adityasharma11/movie-night.git"
   },
   "author": "",
   "license": "ISC"
